@@ -1,5 +1,5 @@
 #include "imageprovider.h"
-
+#include "cameramanagermodel.h"
 
 
 
